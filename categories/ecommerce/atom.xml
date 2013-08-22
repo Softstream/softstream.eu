@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ecommerce | Softstream]]></title>
+  <link href="http://manekovskiy.github.com/softstream//categories/ecommerce/atom.xml" rel="self"/>
+  <link href="http://manekovskiy.github.com/softstream/"/>
+  <updated>2013-08-22T11:00:59+03:00</updated>
+  <id>http://manekovskiy.github.com/softstream/</id>
+  <author>
+    <name><![CDATA[Alex]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Wear Yourself]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Wear+Yourself"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Wear Yourself</id>
+    <content type="html"><![CDATA[<h1>Wear Yourself</h1>
+
+<h2>Customer</h2>
+
+<h2>Objective and solution</h2>
+
+<p>The task was to create extension to the existing ASP.NET application that will allow:</p>
+
+<ul>
+<li>Allow customers to create custom designs for t-shirts, sweatshirts and jackets with WYSIWYG editor</li>
+<li>Provide clipart management subsystem</li>
+<li>Integrate extension with existing order processing system</li>
+<li>Provide integration with <em>printing machinery</em></li>
+</ul>
+
+
+<h2>Project highlights</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brewery Marketing Activities]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Brewery+Marketing+Activities"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Brewery Marketing Activities</id>
+    <content type="html"><![CDATA[<h1>Brewery Marketing Activities</h1>
+
+<h2>Customer</h2>
+
+<p>One of the largest American-owned breweries.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The application had to be utilized to place orders for promotional items. Orders may be placed by authorized associates via friendly web-based user interface. The application implies the back-end which is utilized by the application administrators to manage orders, users and other specific information.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Application was built on top of ASP.NET</li>
+<li>Integrated with online purchase service to make it possible to process payment in various ways</li>
+<li>Employed Microsoft Reporting Services to generate sales reports</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Development boosted by 3rd party components library</li>
+<li>Successfully ported rich UI experience onto tablet devices</li>
+<li>Customer saved resources that were spent on marketing activities</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Airlines Luggage Tags]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Airlines+Luggage+Tags"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Airlines Luggage Tags</id>
+    <content type="html"><![CDATA[<h1>Airlines Luggage Tags</h1>
+
+<h2>Customer</h2>
+
+<p>A large airline based in California, with operations throughout the western United States and western Canada, as well as into Mexico.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Company wanted to create online service that will allow customers to create custom luggage tags. Along with this service customer required:</p>
+
+<ul>
+<li>Order management backend software</li>
+<li>Integration with several printing companies</li>
+</ul>
+
+
+<p>Solution:</p>
+
+<ul>
+<li>ASP.NET powered site</li>
+<li>Extensive use of JavaScript</li>
+<li>Printing assets preprocessing and generation done with scheduler controlled Windows Services</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Using the homegrown rapid prototyping framework first working prototype was launched in 1 week</li>
+<li>Cross-browser WYSIWYG editor written fully in JavaScript</li>
+<li>Service is W3C standards compliant</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

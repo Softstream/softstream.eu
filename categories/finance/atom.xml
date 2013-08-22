@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Finance | Softstream]]></title>
+  <link href="http://manekovskiy.github.com/softstream//categories/finance/atom.xml" rel="self"/>
+  <link href="http://manekovskiy.github.com/softstream/"/>
+  <updated>2013-08-22T11:00:59+03:00</updated>
+  <id>http://manekovskiy.github.com/softstream/</id>
+  <author>
+    <name><![CDATA[Alex]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Warehouse Workflows Automation]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Warehouse+Workflows+Automation"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Warehouse Workflows Automation</id>
+    <content type="html"><![CDATA[<h1>Warehouse Workflows Automation</h1>
+
+<h2>Customer</h2>
+
+<p>American-based provider of home movie and video game rental services, originally through video rental shops.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Customer suffered from huge amounts of paperwork. The task was to automate warehouse workflows for maximal efficiency. Main objectives were including:</p>
+
+<ul>
+<li>Centralize warehouses data</li>
+<li>Accounting of product transferring between warehouses</li>
+<li>Reporting</li>
+<li>Forecasting and inventory optimization</li>
+<li>Integration with barcode scanners</li>
+</ul>
+
+
+<p>As a solution team offered:</p>
+
+<ul>
+<li>Single database with enabled replication for maximal performance of endpoint warehouses</li>
+<li>Web interface was designed to replace the existing desktop application and papers</li>
+<li>Using <a href="http://en.wikipedia.org/wiki/Mathematical_optimization">mathematical optimization</a> and <a href="http://en.wikipedia.org/wiki/Game_theory">game theory</a> methods automate forecasting and analysis</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>All paperwork was eliminated</li>
+<li>Productivity was achieved using keyboard-only user interface</li>
+<li>Time needed for daily routines of warehouse personnel was reduced by 300%</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[System of Credits Issuing]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/System+of+Credits+Issuing"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/System of Credits Issuing</id>
+    <content type="html"><![CDATA[<h1>System of Credits Issuing</h1>
+
+<h2>Customer</h2>
+
+<p>Being a National Lending Associates, Inc. (NLA) Customer company provides customized loan, credit management and tuition receivables support to lenders and schools. Its offerings include web based programs designed to help institutions ensure compliance with all Federal Truth- in- Lending disclosure requirements.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The project was to improve and extend the functionality of the System of Credits Issuing with further information export to the loan servicing firms. Project was running on legacy software technologies and had no documentation, contacts with previous development team were lost.</p>
+
+<ul>
+<li>Recover and document technical design, core business processes and requirements</li>
+<li>Automate deployment and versioning processes</li>
+<li>Improve maintainability and stability of the project</li>
+<li>Perform project reengineering inlucluding:
+
+<ul>
+<li>Redundant components removal</li>
+<li>Replacement of legacy software components with newer alternatives</li>
+<li>Appliance of best software architecture practices where appropriate</li>
+</ul>
+</li>
+<li>Extend the functionality of the credit issuing business-processes</li>
+<li>Optimize overall system performance</li>
+<li>Establish basement for software as a service solution that could be used by partner organizations</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Working in <a href="http://en.wikipedia.org/wiki/Continuous_delivery">continious delivery</a> manner allowed to complete more than 150 major features, improvements and optimizations</li>
+<li>By providing high quality and flexible services the customer established new partnership contacts which allowed to start moving system toward <a href="http://en.wikipedia.org/wiki/Software_as_a_service">SaaS</a> model</li>
+<li>Project duration – 1 year and work is still in progress</li>
+<li>Project volume – 3000 men/hrs and work is still on</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Order Processing Automation]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Order+Processing+Automation"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Order Processing Automation</id>
+    <content type="html"><![CDATA[<h1>Order Processing Automation</h1>
+
+<h2>Customer</h2>
+
+<p>Customer is a manufacturer of trucks, buses and construction equipment, that also supplies marine and industrial drive systems, and financial services with focus on quality, safety and environmental care. Founded more than 80 years ago, a solid position and reputation worldwide has been built up over the decades.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The main goal of the project was to make it easier to select and purchase details, ensuring simplicity of navigation, establishing maximum speed for searching and filtering. Retail agents can sell goods at different stores.</p>
+
+<p>Sales department needed to have a software that:</p>
+
+<ul>
+<li>Creates customized brochures</li>
+<li>Provides advanced product filtering based on user preferences</li>
+<li>Automates order processing</li>
+<li>Provides data sync point for retail agents</li>
+<li>Bridges existing reporting software with the new order processing subsystem</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>On time and on budget</li>
+<li>Efficient and modern UI</li>
+<li>Successfully migrated huge amount of data from papers to the central database</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web to Print | Softstream]]></title>
+  <link href="http://manekovskiy.github.com/softstream//categories/web-to-print/atom.xml" rel="self"/>
+  <link href="http://manekovskiy.github.com/softstream/"/>
+  <updated>2013-08-22T11:00:59+03:00</updated>
+  <id>http://manekovskiy.github.com/softstream/</id>
+  <author>
+    <name><![CDATA[Alex]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Personalized Photo Albums]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Personalized+Photo+Albums"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Personalized Photo Albums</id>
+    <content type="html"><![CDATA[<h1>Personalized Photo Albums</h1>
+
+<h2>Customer</h2>
+
+<p>Printing company offering its services for universities, colleges and schools in the United States of America. It is offering creation of personalized collegiate books, calendars, postcards, business and greeting cards.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The aim of the project was to create top quality, personalized and digitally-printed memorabilia targeted to college students, sports fans, and university alumni, that meant following tasks:</p>
+
+<ul>
+<li>Enable educational institutions to create custom products by customization of the backgrounds, logos, images, icons and photos</li>
+<li>Products should be digitally printed on-demand, thereby allowing for complete customization options</li>
+<li>Integrate with number of online printing services allowing users to choose printing provider</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Rich user experience was achieved by investments in the latest technologies and most advanced production equipment</li>
+<li>With browser-based software, there is nothing to download and install</li>
+<li>Integration with social networks allowed easy sharing of photo albums between end customers</li>
+<li>Customers have complete control over product creation and personalization</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Marketing Materials Management]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Marketing+Materials+Management"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Marketing Materials Management</id>
+    <content type="html"><![CDATA[<h1>Marketing Materials Management</h1>
+
+<h2>Customer</h2>
+
+<p>A global financial services company which provides investment banking, asset management and wealth management services for private, corporate and institutional clients worldwide, as well as retail clients.</p>
+
+<p>It is one of the largest banks in the world. It is considered the world's second largest manager of private wealth assets, a leading provider of retail banking and commercial banking services.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Customer wanted to replace a number of existing business processes related to the bank marketing materials.<br/>
+The team was assigned to create the web based portal that will act as a central point for:</p>
+
+<ul>
+<li>Marketing materials management and exchange</li>
+<li>Cart and order management</li>
+<li>Assets storage</li>
+<li>User management</li>
+<li>Personalized email subscriptions</li>
+</ul>
+
+
+<p>Solution:</p>
+
+<ul>
+<li>Orders processing and shopping cart based on Pageflex Storefront</li>
+<li>Created Pageflex extension that mirrors and extends functionality of Campaign Manager</li>
+<li>Created number of custom pages integrated into Pageflex to administer and control new extension</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Fully automated PDF generation workflow which now is used throughout all the bank departments in more than 50 countries around the world</li>
+<li>Created customizable order processing workflow</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Marketing Management Platform]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Marketing+Management+Platform"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Marketing Management Platform</id>
+    <content type="html"><![CDATA[<h1>Marketing Management Platform</h1>
+
+<h2>Customer</h2>
+
+<p>A leading provider of Distributed Marketing Management Platforms (DMMP). By integrating best-in-class marketing and technology provides clients with a faster, more effective way to grow and manage their marketing initiatives through use of proprietary platform.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The project was to create content management for Customer retail agents. System should  collect financial information and allow to place orders of customized documents.</p>
+
+<p>Major tasks:</p>
+
+<ul>
+<li>Integrate ASP.NET based web application with <a href="http://www.pageflex.com/Products/Pageflex-Server.aspx">Pageflex Server</a> and <a href="http://www.pageflex.com/Products/Pageflex-Storefront.aspx">Pageflex Storefront</a></li>
+<li>Create <a href="http://en.wikipedia.org/wiki/Business_rule_management_system">business rule management system</a> that will process financial information</li>
+<li>Build complex products with use of document actions and custom steps</li>
+<li>Provide automation of order placement using Storefront API</li>
+<li>Develop a bunch of PageFlex extensions</li>
+<li>Modify default Storefront web pages</li>
+</ul>
+
+
+<p>Solution:</p>
+
+<ul>
+<li>Created highly-customizable Form-Filling forms utilizing jQuery and jSINI</li>
+<li>To make process more streamlined created plugins for Pageflex Studio</li>
+<li>Integrated membership and setup synchronization with external systems</li>
+<li>Provided Single Sign On subsystem</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Solution significantly decreased time needed to prepare and complete single order</li>
+<li>Created flexible data import subsystem for importing large bulks of data (hundreds of MBytes)</li>
+<li>With system roll-out all the redundancy in Customer workflows was eliminated</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

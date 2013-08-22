@@ -1,0 +1,149 @@
+/* To use the light Solarized highlighting theme uncomment the following line */
+/* If you want to tweak the Solarized colors you can do that here */
+/* Non highlighted code colors */
+h5 {
+  color: #252526; }
+
+p {
+  color: black; }
+
+body {
+  color: black; }
+
+a {
+  color: #252526; }
+
+a:hover {
+  color: #4f507c; }
+
+a:focus {
+  color: #8250ff; }
+
+body {
+  /*  background-color: $base3;*/ }
+
+#body-wrapper {
+  background-color: white; }
+
+#director-page {
+  background-color: black;
+  background-image: url("/"); }
+
+#post-slider {
+  background-color: black;
+  background-image: url("/"); }
+
+#recent-projects {
+  background-color: black;
+  background-image: url("/"); }
+
+#demo-block {
+  background-color: black;
+  background-image: url("/"); }
+
+#topmenu .tiled-menu {
+  float: right; }
+
+.author_info .soc-icons {
+  display: none; }
+
+.widget.category-widget.titlepanel1 {
+    background-color: #57bae8;
+    border-top: 10px solid #57bae8;
+    border-left: 10px solid #57bae8;
+    margin-bottom: 20px;
+    padding-bottom: 0px; }
+
+.widget.category-widget.titlepanel2 {
+    background-color: #6cbe42;
+    border-top: 10px solid #6cbe42;
+    border-left: 10px solid #6cbe42;
+    margin-bottom: 20px;
+    padding-bottom: 0px; }
+
+.widget.category-widget.titlepanel3 {
+    background-color: #84969f;
+    border-top: 10px solid #84969f;
+    border-left: 10px solid #84969f;
+    margin-bottom: 20px;
+    padding-bottom: 0px; }
+
+.widget.category-widget.titlepanel4 {
+    background-color: #ffaa31;
+    border-top: 10px solid #ffaa31;
+    border-left: 10px solid #ffaa31;
+    margin-bottom: 20px;
+    padding-bottom: 0px; }
+
+.widget.category-widget.titlepanel5 {
+    background-color: #9c849f;
+    border-top: 10px solid #9c849f;
+    border-left: 10px solid #9c849f;
+    margin-bottom: 20px;
+    padding-bottom: 0px; }
+
+.widget.category-widget.titlepanel6 {
+    background-color: #4085b7;
+    border-top: 10px solid #4085b7;
+    border-left: 10px solid #4085b7;
+    margin-bottom: 20px;
+    padding-bottom: 0px; }
+
+.widget.contact-form-widget.itsolutions {
+    background-color: #4085b7;
+    border: 5px solid #4085b7;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    padding-bottom: 10px;
+}
+
+.link_style1 {
+  background-color: #6cbe42;
+  background-size: cover;
+  background-image: none; }
+
+.link_style2 {
+  background-color: #ffaa31;
+  background-size: cover;
+  background-image: none; }
+
+.link_style3 {
+  background-color: #4085b7;
+  background-size: cover;
+  background-image: none; }
+
+.link_style4 {
+  background-color: #84969f;
+  background-size: cover;
+  background-image: none; }
+
+.link_style5 {
+  background-color: #a18690;
+  background-size: cover;
+  background-image: none; }
+
+a.subitem {
+    border: none;
+    padding-bottom: 3px;
+    border-bottom:1px solid #84969F;
+}
+
+a.subitem:hover {
+    border: none;
+    padding-bottom: 3px;
+    border-bottom:3px solid #84969F;
+}
+
+html, body {
+    height: 100%;
+}
+.mwrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+.mfooter, .push {
+    height: 4em;
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Healthcare | Softstream]]></title>
+  <link href="http://manekovskiy.github.com/softstream//categories/healthcare/atom.xml" rel="self"/>
+  <link href="http://manekovskiy.github.com/softstream/"/>
+  <updated>2013-08-22T11:00:59+03:00</updated>
+  <id>http://manekovskiy.github.com/softstream/</id>
+  <author>
+    <name><![CDATA[Alex]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Insurance Plans Management]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Insurance+Plans+Management"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Insurance Plans Management</id>
+    <content type="html"><![CDATA[<h1>Insurance Plans Management</h1>
+
+<h2>Customer</h2>
+
+<p>The largest health care insurer in the mid-Atlantic region a member of Blue Cross Blue Shield Association.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The Company faced the daunting challenge of keeping more than three million members informed about a myriad of insurance plans with frequently changing benefits.
+The Customer envisioned an automated, print-on-demand solution for producing member kits that would integrate with its existing ordering system. By replacing a manual process requiring a large inventory of loose sheets and an outside installment facility, Customer sought to increase efficiency and reduce the waste associated with dated materials while improving the accuracy, quality and image of its marketing kits.</p>
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Created a highly customized and efficient process for online ordering and on-demand print production</li>
+<li>The solution enabled Customer to eliminate an entire warehouse, avoid the waste associated with obsolete materials and reduce its postage costs and call center volumes</li>
+<li>The solution has generated an enthusiastic response from insurance brokers and customers</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Health Insurer Reporting]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Health+Insurer+Reporting"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Health Insurer Reporting</id>
+    <content type="html"><![CDATA[<h1>Health Insurer Reporting</h1>
+
+<h2>Customer</h2>
+
+<p>The largest health care insurer in the mid-Atlantic region a member of Blue Cross Blue Shield Association.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Initially every department in company was obligated with monthly and weekly report generation in form of excel file. All reports, data aggregation and monitoring activities were made manually. Customer wanted to automate generation and processing of the data spreadsheets and centralize data storage.
+Along with data processing there was a task to integrate with existing storefront system.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Imported all historical data via Microsoft Integration Services</li>
+<li>Web interface built on top of Microsoft technologies stack</li>
+<li>Integration of the web site with Active Directory allowed to implement existing access policies</li>
+<li>Report generation was automated and centralized using Microsoft Reporting Services</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>New system is installed and successfully functioning for many years</li>
+<li>RUP methodology with XP features approach</li>
+<li>Data centralization and processing automation helped customer to conform changing business needs</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comfortsleep]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Comfortsleep"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Comfortsleep</id>
+    <content type="html"><![CDATA[<h1>Comfortsleep</h1>
+
+<h2>Customer</h2>
+
+<p>Healthcare center located in New Jersey. We are dedicated to providing complete evaluation, testing, diagnosis and treatment of all types of sleep disorders. Our centers consist of private hotel-like suites and a sophisticated control area that monitors brain, heart, muscle and breathing activity while you sleep.</p>
+
+<p>Software as service and licensing</p>
+
+<h2>Objective and solution</h2>
+
+<p>Customer had legacy application that partially implemented existing workflows. System was inconvenient and not flexible enough for further support.</p>
+
+<p>The problem was to reengineer legacy software, automate and rewise existing workflows including:</p>
+
+<ul>
+<li>Implement assets order management</li>
+<li>Automate equipment trasfering between warehouses</li>
+<li>Create CRM-like system that bridges between physicians patients and insurance companies</li>
+<li>Integrate with equipment usage monitoring third party systems</li>
+</ul>
+
+
+<p>Along with automation there was a task to increase effectiveness and perfromance of the new system.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Several webportals were developed and cross integrated</li>
+<li>Extensibility was ensured by service-oriented architecture</li>
+<li>Existing data was migrated by means of custom built tool</li>
+<li>Replication of data across warehouses significantly increased overral performance</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Perfect mix of local involvement and remote communication among team members located in different development locations</li>
+<li>Appliance of <a href="http://en.wikipedia.org/wiki/Continuous_integration">continuous integration</a> and <a href="http://en.wikipedia.org/wiki/Unit_testing">unit testing</a> practices significantly reduced costs spent on
+testing</li>
+<li>UX design and implementation time was greatly reduced with the assistance rich component framework</li>
+<li>Customer has a long-term plans to extend functionality onto mobile platform</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

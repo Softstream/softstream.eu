@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: team outsourcing | Softstream]]></title>
+  <link href="http://manekovskiy.github.com/softstream//categories/team-outsourcing/atom.xml" rel="self"/>
+  <link href="http://manekovskiy.github.com/softstream/"/>
+  <updated>2013-08-22T11:00:59+03:00</updated>
+  <id>http://manekovskiy.github.com/softstream/</id>
+  <author>
+    <name><![CDATA[Alex]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Comfortsleep]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Comfortsleep"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Comfortsleep</id>
+    <content type="html"><![CDATA[<h1>Comfortsleep</h1>
+
+<h2>Customer</h2>
+
+<p>Healthcare center located in New Jersey. We are dedicated to providing complete evaluation, testing, diagnosis and treatment of all types of sleep disorders. Our centers consist of private hotel-like suites and a sophisticated control area that monitors brain, heart, muscle and breathing activity while you sleep.</p>
+
+<p>Software as service and licensing</p>
+
+<h2>Objective and solution</h2>
+
+<p>Customer had legacy application that partially implemented existing workflows. System was inconvenient and not flexible enough for further support.</p>
+
+<p>The problem was to reengineer legacy software, automate and rewise existing workflows including:</p>
+
+<ul>
+<li>Implement assets order management</li>
+<li>Automate equipment trasfering between warehouses</li>
+<li>Create CRM-like system that bridges between physicians patients and insurance companies</li>
+<li>Integrate with equipment usage monitoring third party systems</li>
+</ul>
+
+
+<p>Along with automation there was a task to increase effectiveness and perfromance of the new system.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Several webportals were developed and cross integrated</li>
+<li>Extensibility was ensured by service-oriented architecture</li>
+<li>Existing data was migrated by means of custom built tool</li>
+<li>Replication of data across warehouses significantly increased overral performance</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Perfect mix of local involvement and remote communication among team members located in different development locations</li>
+<li>Appliance of <a href="http://en.wikipedia.org/wiki/Continuous_integration">continuous integration</a> and <a href="http://en.wikipedia.org/wiki/Unit_testing">unit testing</a> practices significantly reduced costs spent on
+testing</li>
+<li>UX design and implementation time was greatly reduced with the assistance rich component framework</li>
+<li>Customer has a long-term plans to extend functionality onto mobile platform</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CardioNet]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/CardioNet"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/CardioNet</id>
+    <content type="html"><![CDATA[<h1>CardioNet</h1>
+
+<h2>Customer</h2>
+
+<p>A Supplier of Mobile Cardiac Outpatient Telemetry that provides the next-generation ambulatory cardiac monitoring service with beat-to-beat, real time analysis, automatic arrhythmia detection and wireless ECG transmission.
+It helps clinicians prevent morbidity, mortality and disability with rapid diagnosis and treatment of patients with cardiovascular disease.</p>
+
+<h2>Objectives and Solution</h2>
+
+<p>The project was to automate the process of ECG signal decoding transmitted via phone landlines and integrate solution with existent patient monitoring system.
+Signal could be recorded in noisy place with distortions caused by landlines equipment. Also target was to successfully process no less than 70% of all records.</p>
+
+<ul>
+<li>Applied numerical analysis to the problem and created mathematical model for signal processing</li>
+<li>Integrated with existing patient monitoring system through XML Web Services technology</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Successfully designed and implemented self adaptive demodulator algorithm</li>
+<li>Through reverse engineering technical documentation for supported cardiac monitors was re-defined and corrected</li>
+<li>Application UX was designed for maximum personnel efficiency and fully supports control via keyboard</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brewery Marketing Activities]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Brewery+Marketing+Activities"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Brewery Marketing Activities</id>
+    <content type="html"><![CDATA[<h1>Brewery Marketing Activities</h1>
+
+<h2>Customer</h2>
+
+<p>One of the largest American-owned breweries.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The application had to be utilized to place orders for promotional items. Orders may be placed by authorized associates via friendly web-based user interface. The application implies the back-end which is utilized by the application administrators to manage orders, users and other specific information.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Application was built on top of ASP.NET</li>
+<li>Integrated with online purchase service to make it possible to process payment in various ways</li>
+<li>Employed Microsoft Reporting Services to generate sales reports</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Development boosted by 3rd party components library</li>
+<li>Successfully ported rich UI experience onto tablet devices</li>
+<li>Customer saved resources that were spent on marketing activities</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Airlines Luggage Tags]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Airlines+Luggage+Tags"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Airlines Luggage Tags</id>
+    <content type="html"><![CDATA[<h1>Airlines Luggage Tags</h1>
+
+<h2>Customer</h2>
+
+<p>A large airline based in California, with operations throughout the western United States and western Canada, as well as into Mexico.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Company wanted to create online service that will allow customers to create custom luggage tags. Along with this service customer required:</p>
+
+<ul>
+<li>Order management backend software</li>
+<li>Integration with several printing companies</li>
+</ul>
+
+
+<p>Solution:</p>
+
+<ul>
+<li>ASP.NET powered site</li>
+<li>Extensive use of JavaScript</li>
+<li>Printing assets preprocessing and generation done with scheduler controlled Windows Services</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Using the homegrown rapid prototyping framework first working prototype was launched in 1 week</li>
+<li>Cross-browser WYSIWYG editor written fully in JavaScript</li>
+<li>Service is W3C standards compliant</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

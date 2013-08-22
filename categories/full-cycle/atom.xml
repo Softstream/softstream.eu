@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Full cycle | Softstream]]></title>
+  <link href="http://manekovskiy.github.com/softstream//categories/full-cycle/atom.xml" rel="self"/>
+  <link href="http://manekovskiy.github.com/softstream/"/>
+  <updated>2013-08-22T11:00:59+03:00</updated>
+  <id>http://manekovskiy.github.com/softstream/</id>
+  <author>
+    <name><![CDATA[Alex]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Recruiting Agency System]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Recruiting+Agency+System"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Recruiting Agency System</id>
+    <content type="html"><![CDATA[<h1>Recruiting Agency System</h1>
+
+<h2>Customer</h2>
+
+<p>Large recruiting agency specializing in personnel recruiting, holding of appraisals and training. Company is represented in all regions around Ukraine.</p>
+
+<h2>Objective and solution</h2>
+
+<p>The goal was to refine existing tools and utilities and create a portal globally accessible from all departments and offices across the country. Team was assigned to design integrated working environment that will fully automate document flow and reporting.
+The key requirement was high system responsiveness achieved with extensive usage of AJAX and splitting of database data.</p>
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Close communication with customer and personnel simplified requirements gathering and refinement</li>
+<li>Active usage of codegeneration boosted the efficiency of the team</li>
+<li>Project high quality and evolution capability was ensured by <a href="http://en.wikipedia.org/wiki/Software_factory">Software Factory</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RFID Tracking Solution]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/RFID+Tracking+Solution"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/RFID Tracking Solution</id>
+    <content type="html"><![CDATA[<h1>RFID Tracking Solution</h1>
+
+<h2>Customer</h2>
+
+<p>A leading vendor of <a href="http://en.wikipedia.org/wiki/Radio-frequency_identification">RFID</a> tracking solutions.
+It provides services for large corporations, law enforcement and government organizations, offering high performance technology solutions including:</p>
+
+<ul>
+<li>Asset Tracking</li>
+<li>Evacuation &amp; Emergency Management</li>
+<li>Student Accountability</li>
+<li>Event Metrics and Social Media</li>
+</ul>
+
+
+<h2>Objective and solution</h2>
+
+<p>A sophisticated system comprised of a number of desktop applications. Solution needed to be analyzed and re‐engineered.</p>
+
+<p>Additionally the team task was to integrate with third party systems and services and allow clients to use system on <a href="http://en.wikipedia.org/wiki/Software_as_a_service">SaaS</a> basis.</p>
+
+<p>Another challenge was to ensure solution scalability.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Developed several cross-platform client applications based on Mono Framework(Xamarin), MonoTouch,  MonoDroid technologies</li>
+<li>Scalability and high availability was reached using cloud services such as Windows Azure and Amazon Services (EC2)</li>
+<li>Service oriented architecture backed by WCF, REST and Web Services</li>
+<li>Reports were powered by Microsoft Reporting Services</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Development resulted in highly configurable and extensible system</li>
+<li>Moving solution to the Cloud helped substantially decrease customer operating expenses</li>
+<li>Continuous process improvement allowed to minimize time to market for new features</li>
+<li>Created the suite of web, desktop and mobile applications hosted on Microsoft, Android and IOS platforms</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Leasing Services Provider]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Leasing+Services+Provider"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Leasing Services Provider</id>
+    <content type="html"><![CDATA[<h1>Leasing Services Provider</h1>
+
+<h2>Customer</h2>
+
+<p>Fast growing company that operates in North America and provides leasing services including:</p>
+
+<ul>
+<li>Building equipment and materials</li>
+<li>Machinery</li>
+<li>Human resources</li>
+</ul>
+
+
+<h2>Objective and solution</h2>
+
+<p>Customer wanted to replace existing manually edited and processed spreadsheets with web site globally accessible by staff and customers.
+The main idea was to prevent time losses due to continuous phone calls and manual filling in of invoices and work log reports.
+The system should allow customers to control budget and expenses through reports and approval workflow.</p>
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Usage of <strong>our own</strong> patterns and practices reduced risks and made system more fault-tolerant</li>
+<li>The latest technologies stack has shortened time needed for full development cycle to two calendar months</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Management System]]></title>
+    <link href="http://manekovskiy.github.com/softstream/project/Learning+Management+System"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://manekovskiy.github.com/softstream/project/Learning Management System</id>
+    <content type="html"><![CDATA[<h1>Learning Management System</h1>
+
+<h2>Customer</h2>
+
+<p>Company provides an award-winning, comprehensive learning management system for the coordination of e-learning, classroom training, assessment and records management. Product is used on a daily basis by directors of training, e-learning and human resources and provides solutions to their common challenges.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Customer wanted to revise existent solution functionality and move it to the Web. New system had to be horizontally scalable.</p>
+
+<p>Another challenge was to provide highly configurable and flexible licensing system that will give customer an ability to sell or lend certain parts of the system to partner organizations.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Project was envisioned as a suite of web and desktop applications hosted on Microsoft platform</li>
+<li>The project team involved in all stages of product development and research activities with product owner providing a business analysis, requirements specification and support management</li>
+<li>Developed auto testing framework</li>
+<li>Automated deployment and versioning processes</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Project exists for more than 2 decades</li>
+<li>Team provides support of Microsoft .NET powered version for more than 5 years</li>
+<li>High level of automation guarantees high quality of software releases</li>
+<li>Effective collaboration of distributed team is ensured by agile practices</li>
+<li>In 2013 project reached volume of more than 50 man/years</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
