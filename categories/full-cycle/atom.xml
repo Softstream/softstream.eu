@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Full cycle | Softstream]]></title>
-  <link href="http://manekovskiy.github.com/softstream//categories/full-cycle/atom.xml" rel="self"/>
-  <link href="http://manekovskiy.github.com/softstream/"/>
-  <updated>2013-08-22T11:00:59+03:00</updated>
-  <id>http://manekovskiy.github.com/softstream/</id>
+  <link href="http://softstream.eu//categories/full-cycle/atom.xml" rel="self"/>
+  <link href="http://softstream.eu/"/>
+  <updated>2013-08-22T11:22:18+03:00</updated>
+  <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Recruiting Agency System]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Recruiting+Agency+System"/>
+    <link href="http://softstream.eu/project/Recruiting+Agency+System"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Recruiting Agency System</id>
+    <id>http://softstream.eu/project/Recruiting Agency System</id>
     <content type="html"><![CDATA[<h1>Recruiting Agency System</h1>
 
 <h2>Customer</h2>
@@ -42,9 +42,9 @@ The key requirement was high system responsiveness achieved with extensive usage
   
   <entry>
     <title type="html"><![CDATA[RFID Tracking Solution]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/RFID+Tracking+Solution"/>
+    <link href="http://softstream.eu/project/RFID+Tracking+Solution"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/RFID Tracking Solution</id>
+    <id>http://softstream.eu/project/RFID Tracking Solution</id>
     <content type="html"><![CDATA[<h1>RFID Tracking Solution</h1>
 
 <h2>Customer</h2>
@@ -92,9 +92,9 @@ It provides services for large corporations, law enforcement and government orga
   
   <entry>
     <title type="html"><![CDATA[Leasing Services Provider]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Leasing+Services+Provider"/>
+    <link href="http://softstream.eu/project/Leasing+Services+Provider"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Leasing Services Provider</id>
+    <id>http://softstream.eu/project/Leasing Services Provider</id>
     <content type="html"><![CDATA[<h1>Leasing Services Provider</h1>
 
 <h2>Customer</h2>
@@ -126,9 +126,9 @@ The system should allow customers to control budget and expenses through reports
   
   <entry>
     <title type="html"><![CDATA[Learning Management System]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Learning+Management+System"/>
+    <link href="http://softstream.eu/project/Learning+Management+System"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Learning Management System</id>
+    <id>http://softstream.eu/project/Learning Management System</id>
     <content type="html"><![CDATA[<h1>Learning Management System</h1>
 
 <h2>Customer</h2>

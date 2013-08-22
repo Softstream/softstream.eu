@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Finance | Softstream]]></title>
-  <link href="http://manekovskiy.github.com/softstream//categories/finance/atom.xml" rel="self"/>
-  <link href="http://manekovskiy.github.com/softstream/"/>
-  <updated>2013-08-22T11:00:59+03:00</updated>
-  <id>http://manekovskiy.github.com/softstream/</id>
+  <link href="http://softstream.eu//categories/finance/atom.xml" rel="self"/>
+  <link href="http://softstream.eu/"/>
+  <updated>2013-08-22T11:22:18+03:00</updated>
+  <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Warehouse Workflows Automation]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Warehouse+Workflows+Automation"/>
+    <link href="http://softstream.eu/project/Warehouse+Workflows+Automation"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Warehouse Workflows Automation</id>
+    <id>http://softstream.eu/project/Warehouse Workflows Automation</id>
     <content type="html"><![CDATA[<h1>Warehouse Workflows Automation</h1>
 
 <h2>Customer</h2>
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[System of Credits Issuing]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/System+of+Credits+Issuing"/>
+    <link href="http://softstream.eu/project/System+of+Credits+Issuing"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/System of Credits Issuing</id>
+    <id>http://softstream.eu/project/System of Credits Issuing</id>
     <content type="html"><![CDATA[<h1>System of Credits Issuing</h1>
 
 <h2>Customer</h2>
@@ -104,9 +104,9 @@
   
   <entry>
     <title type="html"><![CDATA[Order Processing Automation]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Order+Processing+Automation"/>
+    <link href="http://softstream.eu/project/Order+Processing+Automation"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Order Processing Automation</id>
+    <id>http://softstream.eu/project/Order Processing Automation</id>
     <content type="html"><![CDATA[<h1>Order Processing Automation</h1>
 
 <h2>Customer</h2>

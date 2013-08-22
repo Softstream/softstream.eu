@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Web to Print | Softstream]]></title>
-  <link href="http://manekovskiy.github.com/softstream//categories/web-to-print/atom.xml" rel="self"/>
-  <link href="http://manekovskiy.github.com/softstream/"/>
-  <updated>2013-08-22T11:00:59+03:00</updated>
-  <id>http://manekovskiy.github.com/softstream/</id>
+  <link href="http://softstream.eu//categories/web-to-print/atom.xml" rel="self"/>
+  <link href="http://softstream.eu/"/>
+  <updated>2013-08-22T11:22:18+03:00</updated>
+  <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Personalized Photo Albums]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Personalized+Photo+Albums"/>
+    <link href="http://softstream.eu/project/Personalized+Photo+Albums"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Personalized Photo Albums</id>
+    <id>http://softstream.eu/project/Personalized Photo Albums</id>
     <content type="html"><![CDATA[<h1>Personalized Photo Albums</h1>
 
 <h2>Customer</h2>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[Marketing Materials Management]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Marketing+Materials+Management"/>
+    <link href="http://softstream.eu/project/Marketing+Materials+Management"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Marketing Materials Management</id>
+    <id>http://softstream.eu/project/Marketing Materials Management</id>
     <content type="html"><![CDATA[<h1>Marketing Materials Management</h1>
 
 <h2>Customer</h2>
@@ -95,9 +95,9 @@ The team was assigned to create the web based portal that will act as a central 
   
   <entry>
     <title type="html"><![CDATA[Marketing Management Platform]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Marketing+Management+Platform"/>
+    <link href="http://softstream.eu/project/Marketing+Management+Platform"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Marketing Management Platform</id>
+    <id>http://softstream.eu/project/Marketing Management Platform</id>
     <content type="html"><![CDATA[<h1>Marketing Management Platform</h1>
 
 <h2>Customer</h2>

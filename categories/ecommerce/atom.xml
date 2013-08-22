@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Ecommerce | Softstream]]></title>
-  <link href="http://manekovskiy.github.com/softstream//categories/ecommerce/atom.xml" rel="self"/>
-  <link href="http://manekovskiy.github.com/softstream/"/>
-  <updated>2013-08-22T11:00:59+03:00</updated>
-  <id>http://manekovskiy.github.com/softstream/</id>
+  <link href="http://softstream.eu//categories/ecommerce/atom.xml" rel="self"/>
+  <link href="http://softstream.eu/"/>
+  <updated>2013-08-22T11:22:18+03:00</updated>
+  <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wear Yourself]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Wear+Yourself"/>
+    <link href="http://softstream.eu/project/Wear+Yourself"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Wear Yourself</id>
+    <id>http://softstream.eu/project/Wear Yourself</id>
     <content type="html"><![CDATA[<h1>Wear Yourself</h1>
 
 <h2>Customer</h2>
@@ -40,9 +40,9 @@
   
   <entry>
     <title type="html"><![CDATA[Brewery Marketing Activities]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Brewery+Marketing+Activities"/>
+    <link href="http://softstream.eu/project/Brewery+Marketing+Activities"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Brewery Marketing Activities</id>
+    <id>http://softstream.eu/project/Brewery Marketing Activities</id>
     <content type="html"><![CDATA[<h1>Brewery Marketing Activities</h1>
 
 <h2>Customer</h2>
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[Airlines Luggage Tags]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Airlines+Luggage+Tags"/>
+    <link href="http://softstream.eu/project/Airlines+Luggage+Tags"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Airlines Luggage Tags</id>
+    <id>http://softstream.eu/project/Airlines Luggage Tags</id>
     <content type="html"><![CDATA[<h1>Airlines Luggage Tags</h1>
 
 <h2>Customer</h2>

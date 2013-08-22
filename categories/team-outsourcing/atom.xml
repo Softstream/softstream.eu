@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: team outsourcing | Softstream]]></title>
-  <link href="http://manekovskiy.github.com/softstream//categories/team-outsourcing/atom.xml" rel="self"/>
-  <link href="http://manekovskiy.github.com/softstream/"/>
-  <updated>2013-08-22T11:00:59+03:00</updated>
-  <id>http://manekovskiy.github.com/softstream/</id>
+  <link href="http://softstream.eu//categories/team-outsourcing/atom.xml" rel="self"/>
+  <link href="http://softstream.eu/"/>
+  <updated>2013-08-22T11:22:18+03:00</updated>
+  <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Comfortsleep]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Comfortsleep"/>
+    <link href="http://softstream.eu/project/Comfortsleep"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Comfortsleep</id>
+    <id>http://softstream.eu/project/Comfortsleep</id>
     <content type="html"><![CDATA[<h1>Comfortsleep</h1>
 
 <h2>Customer</h2>
@@ -67,9 +67,9 @@ testing</li>
   
   <entry>
     <title type="html"><![CDATA[CardioNet]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/CardioNet"/>
+    <link href="http://softstream.eu/project/CardioNet"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/CardioNet</id>
+    <id>http://softstream.eu/project/CardioNet</id>
     <content type="html"><![CDATA[<h1>CardioNet</h1>
 
 <h2>Customer</h2>
@@ -101,9 +101,9 @@ Signal could be recorded in noisy place with distortions caused by landlines equ
   
   <entry>
     <title type="html"><![CDATA[Brewery Marketing Activities]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Brewery+Marketing+Activities"/>
+    <link href="http://softstream.eu/project/Brewery+Marketing+Activities"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Brewery Marketing Activities</id>
+    <id>http://softstream.eu/project/Brewery Marketing Activities</id>
     <content type="html"><![CDATA[<h1>Brewery Marketing Activities</h1>
 
 <h2>Customer</h2>
@@ -136,9 +136,9 @@ Signal could be recorded in noisy place with distortions caused by landlines equ
   
   <entry>
     <title type="html"><![CDATA[Airlines Luggage Tags]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Airlines+Luggage+Tags"/>
+    <link href="http://softstream.eu/project/Airlines+Luggage+Tags"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Airlines Luggage Tags</id>
+    <id>http://softstream.eu/project/Airlines Luggage Tags</id>
     <content type="html"><![CDATA[<h1>Airlines Luggage Tags</h1>
 
 <h2>Customer</h2>

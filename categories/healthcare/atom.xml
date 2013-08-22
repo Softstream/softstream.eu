@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Healthcare | Softstream]]></title>
-  <link href="http://manekovskiy.github.com/softstream//categories/healthcare/atom.xml" rel="self"/>
-  <link href="http://manekovskiy.github.com/softstream/"/>
-  <updated>2013-08-22T11:00:59+03:00</updated>
-  <id>http://manekovskiy.github.com/softstream/</id>
+  <link href="http://softstream.eu//categories/healthcare/atom.xml" rel="self"/>
+  <link href="http://softstream.eu/"/>
+  <updated>2013-08-22T11:22:18+03:00</updated>
+  <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Insurance Plans Management]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Insurance+Plans+Management"/>
+    <link href="http://softstream.eu/project/Insurance+Plans+Management"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Insurance Plans Management</id>
+    <id>http://softstream.eu/project/Insurance Plans Management</id>
     <content type="html"><![CDATA[<h1>Insurance Plans Management</h1>
 
 <h2>Customer</h2>
@@ -42,9 +42,9 @@ The Customer envisioned an automated, print-on-demand solution for producing mem
   
   <entry>
     <title type="html"><![CDATA[Health Insurer Reporting]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Health+Insurer+Reporting"/>
+    <link href="http://softstream.eu/project/Health+Insurer+Reporting"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Health Insurer Reporting</id>
+    <id>http://softstream.eu/project/Health Insurer Reporting</id>
     <content type="html"><![CDATA[<h1>Health Insurer Reporting</h1>
 
 <h2>Customer</h2>
@@ -79,9 +79,9 @@ Along with data processing there was a task to integrate with existing storefron
   
   <entry>
     <title type="html"><![CDATA[Comfortsleep]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Comfortsleep"/>
+    <link href="http://softstream.eu/project/Comfortsleep"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Comfortsleep</id>
+    <id>http://softstream.eu/project/Comfortsleep</id>
     <content type="html"><![CDATA[<h1>Comfortsleep</h1>
 
 <h2>Customer</h2>

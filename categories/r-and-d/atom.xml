@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: R&D | Softstream]]></title>
-  <link href="http://manekovskiy.github.com/softstream//categories/r-and-d/atom.xml" rel="self"/>
-  <link href="http://manekovskiy.github.com/softstream/"/>
-  <updated>2013-08-22T11:00:59+03:00</updated>
-  <id>http://manekovskiy.github.com/softstream/</id>
+  <link href="http://softstream.eu//categories/r-and-d/atom.xml" rel="self"/>
+  <link href="http://softstream.eu/"/>
+  <updated>2013-08-22T11:22:18+03:00</updated>
+  <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Real Estate System Upgrade]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/Real+Estate+System+Upgrade"/>
+    <link href="http://softstream.eu/project/Real+Estate+System+Upgrade"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/Real Estate System Upgrade</id>
+    <id>http://softstream.eu/project/Real Estate System Upgrade</id>
     <content type="html"><![CDATA[<h1>Real Estate System Upgrade</h1>
 
 <h2>Customer</h2>
@@ -52,9 +52,9 @@
   
   <entry>
     <title type="html"><![CDATA[MMORPG Game Server]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/MMORPG+Game+Server"/>
+    <link href="http://softstream.eu/project/MMORPG+Game+Server"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/MMORPG Game Server</id>
+    <id>http://softstream.eu/project/MMORPG Game Server</id>
     <content type="html"><![CDATA[<h1>MMORPG Game Server</h1>
 
 <h2>Customer</h2>
@@ -98,9 +98,9 @@
   
   <entry>
     <title type="html"><![CDATA[CardioNet]]></title>
-    <link href="http://manekovskiy.github.com/softstream/project/CardioNet"/>
+    <link href="http://softstream.eu/project/CardioNet"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://manekovskiy.github.com/softstream/project/CardioNet</id>
+    <id>http://softstream.eu/project/CardioNet</id>
     <content type="html"><![CDATA[<h1>CardioNet</h1>
 
 <h2>Customer</h2>
