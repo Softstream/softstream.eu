@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Healthcare | Softstream]]></title>
   <link href="http://softstream.eu//categories/healthcare/atom.xml" rel="self"/>
   <link href="http://softstream.eu/"/>
-  <updated>2013-08-22T11:22:18+03:00</updated>
+  <updated>2013-09-14T21:10:52+03:00</updated>
   <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
@@ -35,6 +35,56 @@ The Customer envisioned an automated, print-on-demand solution for producing mem
 <li>Created a highly customized and efficient process for online ordering and on-demand print production</li>
 <li>The solution enabled Customer to eliminate an entire warehouse, avoid the waste associated with obsolete materials and reduce its postage costs and call center volumes</li>
 <li>The solution has generated an enthusiastic response from insurance brokers and customers</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Healthcare Center]]></title>
+    <link href="http://softstream.eu/project/Healthcare+Center"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://softstream.eu/project/Healthcare Center</id>
+    <content type="html"><![CDATA[<h1>Comfortsleep</h1>
+
+<h2>Customer</h2>
+
+<p>Healthcare center located in New Jersey.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Customer had legacy application that partially implemented existing workflows. System was inconvenient and not flexible enough for further support.</p>
+
+<p>The problem was to reengineer legacy software, automate and rewise existing workflows including:</p>
+
+<ul>
+<li>Implement assets order management</li>
+<li>Automate equipment trasfering between warehouses</li>
+<li>Create CRM-like system that bridges between physicians patients and insurance companies</li>
+<li>Integrate with equipment usage monitoring third party systems</li>
+</ul>
+
+
+<p>Along with automation there was a task to increase effectiveness and perfromance of the new system.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Several webportals were developed and cross integrated</li>
+<li>Extensibility was ensured by service-oriented architecture</li>
+<li>Existing data was migrated by means of custom built tool</li>
+<li>Replication of data across warehouses significantly increased overral performance</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Perfect mix of local involvement and remote communication among team members located in different development locations</li>
+<li>Appliance of <a href="http://en.wikipedia.org/wiki/Continuous_integration">continuous integration</a> and <a href="http://en.wikipedia.org/wiki/Unit_testing">unit testing</a> practices significantly reduced costs spent on
+testing</li>
+<li>UX design and implementation time was greatly reduced with the assistance rich component framework</li>
+<li>Customer has a long-term plans to extend functionality onto mobile platform</li>
 </ul>
 
 ]]></content>
@@ -72,58 +122,6 @@ Along with data processing there was a task to integrate with existing storefron
 <li>New system is installed and successfully functioning for many years</li>
 <li>RUP methodology with XP features approach</li>
 <li>Data centralization and processing automation helped customer to conform changing business needs</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Comfortsleep]]></title>
-    <link href="http://softstream.eu/project/Comfortsleep"/>
-    <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://softstream.eu/project/Comfortsleep</id>
-    <content type="html"><![CDATA[<h1>Comfortsleep</h1>
-
-<h2>Customer</h2>
-
-<p>Healthcare center located in New Jersey. We are dedicated to providing complete evaluation, testing, diagnosis and treatment of all types of sleep disorders. Our centers consist of private hotel-like suites and a sophisticated control area that monitors brain, heart, muscle and breathing activity while you sleep.</p>
-
-<p>Software as service and licensing</p>
-
-<h2>Objective and solution</h2>
-
-<p>Customer had legacy application that partially implemented existing workflows. System was inconvenient and not flexible enough for further support.</p>
-
-<p>The problem was to reengineer legacy software, automate and rewise existing workflows including:</p>
-
-<ul>
-<li>Implement assets order management</li>
-<li>Automate equipment trasfering between warehouses</li>
-<li>Create CRM-like system that bridges between physicians patients and insurance companies</li>
-<li>Integrate with equipment usage monitoring third party systems</li>
-</ul>
-
-
-<p>Along with automation there was a task to increase effectiveness and perfromance of the new system.</p>
-
-<p>Solution:</p>
-
-<ul>
-<li>Several webportals were developed and cross integrated</li>
-<li>Extensibility was ensured by service-oriented architecture</li>
-<li>Existing data was migrated by means of custom built tool</li>
-<li>Replication of data across warehouses significantly increased overral performance</li>
-</ul>
-
-
-<h2>Project highlights</h2>
-
-<ul>
-<li>Perfect mix of local involvement and remote communication among team members located in different development locations</li>
-<li>Appliance of <a href="http://en.wikipedia.org/wiki/Continuous_integration">continuous integration</a> and <a href="http://en.wikipedia.org/wiki/Unit_testing">unit testing</a> practices significantly reduced costs spent on
-testing</li>
-<li>UX design and implementation time was greatly reduced with the assistance rich component framework</li>
-<li>Customer has a long-term plans to extend functionality onto mobile platform</li>
 </ul>
 
 ]]></content>

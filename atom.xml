@@ -4,7 +4,7 @@
   <title><![CDATA[Softstream]]></title>
   <link href="http://softstream.eu/atom.xml" rel="self"/>
   <link href="http://softstream.eu/"/>
-  <updated>2013-08-22T11:22:18+03:00</updated>
+  <updated>2013-09-14T21:10:52+03:00</updated>
   <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
@@ -554,54 +554,15 @@ The Customer envisioned an automated, print-on-demand solution for producing mem
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Health Insurer Reporting]]></title>
-    <link href="http://softstream.eu/project/Health+Insurer+Reporting"/>
+    <title type="html"><![CDATA[Healthcare Center]]></title>
+    <link href="http://softstream.eu/project/Healthcare+Center"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://softstream.eu/project/Health Insurer Reporting</id>
-    <content type="html"><![CDATA[<h1>Health Insurer Reporting</h1>
-
-<h2>Customer</h2>
-
-<p>The largest health care insurer in the mid-Atlantic region a member of Blue Cross Blue Shield Association.</p>
-
-<h2>Objective and solution</h2>
-
-<p>Initially every department in company was obligated with monthly and weekly report generation in form of excel file. All reports, data aggregation and monitoring activities were made manually. Customer wanted to automate generation and processing of the data spreadsheets and centralize data storage.
-Along with data processing there was a task to integrate with existing storefront system.</p>
-
-<p>Solution:</p>
-
-<ul>
-<li>Imported all historical data via Microsoft Integration Services</li>
-<li>Web interface built on top of Microsoft technologies stack</li>
-<li>Integration of the web site with Active Directory allowed to implement existing access policies</li>
-<li>Report generation was automated and centralized using Microsoft Reporting Services</li>
-</ul>
-
-
-<h2>Project highlights</h2>
-
-<ul>
-<li>New system is installed and successfully functioning for many years</li>
-<li>RUP methodology with XP features approach</li>
-<li>Data centralization and processing automation helped customer to conform changing business needs</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Comfortsleep]]></title>
-    <link href="http://softstream.eu/project/Comfortsleep"/>
-    <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://softstream.eu/project/Comfortsleep</id>
+    <id>http://softstream.eu/project/Healthcare Center</id>
     <content type="html"><![CDATA[<h1>Comfortsleep</h1>
 
 <h2>Customer</h2>
 
-<p>Healthcare center located in New Jersey. We are dedicated to providing complete evaluation, testing, diagnosis and treatment of all types of sleep disorders. Our centers consist of private hotel-like suites and a sophisticated control area that monitors brain, heart, muscle and breathing activity while you sleep.</p>
-
-<p>Software as service and licensing</p>
+<p>Healthcare center located in New Jersey.</p>
 
 <h2>Objective and solution</h2>
 
@@ -643,11 +604,48 @@ testing</li>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[CardioNet]]></title>
+    <title type="html"><![CDATA[Health Insurer Reporting]]></title>
+    <link href="http://softstream.eu/project/Health+Insurer+Reporting"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://softstream.eu/project/Health Insurer Reporting</id>
+    <content type="html"><![CDATA[<h1>Health Insurer Reporting</h1>
+
+<h2>Customer</h2>
+
+<p>The largest health care insurer in the mid-Atlantic region a member of Blue Cross Blue Shield Association.</p>
+
+<h2>Objective and solution</h2>
+
+<p>Initially every department in company was obligated with monthly and weekly report generation in form of excel file. All reports, data aggregation and monitoring activities were made manually. Customer wanted to automate generation and processing of the data spreadsheets and centralize data storage.
+Along with data processing there was a task to integrate with existing storefront system.</p>
+
+<p>Solution:</p>
+
+<ul>
+<li>Imported all historical data via Microsoft Integration Services</li>
+<li>Web interface built on top of Microsoft technologies stack</li>
+<li>Integration of the web site with Active Directory allowed to implement existing access policies</li>
+<li>Report generation was automated and centralized using Microsoft Reporting Services</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>New system is installed and successfully functioning for many years</li>
+<li>RUP methodology with XP features approach</li>
+<li>Data centralization and processing automation helped customer to conform changing business needs</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Telemedicine Process Automation]]></title>
     <link href="http://softstream.eu/project/CardioNet"/>
     <updated>2013-03-28T00:00:00+02:00</updated>
     <id>http://softstream.eu/project/CardioNet</id>
-    <content type="html"><![CDATA[<h1>CardioNet</h1>
+    <content type="html"><![CDATA[<h1>Telemedicine Process Automation</h1>
 
 <h2>Customer</h2>
 

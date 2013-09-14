@@ -23,16 +23,16 @@ jQuery(window).load(function() {
 
 });
 jQuery(document).ready(function($) {
-    vc_twitterBehaviour();
-    vc_toggleBehaviour();
-    vc_tabsBehaviour();
-    vc_accordionBehaviour();
-    vc_teaserGrid();
-    vc_carouselBehaviour();
-    vc_slidersBehaviour();
-    vc_prettyPhoto();
-    vc_googleplus();
-    vc_pinterest();
+   // vc_twitterBehaviour();
+   // vc_toggleBehaviour();
+ //   vc_tabsBehaviour();
+ //   vc_accordionBehaviour();
+ //   vc_teaserGrid();
+ //   vc_carouselBehaviour();
+ //   vc_slidersBehaviour();
+ //   vc_prettyPhoto();
+ //   vc_googleplus();
+ //   vc_pinterest();
 
 }); // END jQuery(document).ready
 
