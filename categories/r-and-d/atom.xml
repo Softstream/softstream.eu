@@ -4,7 +4,7 @@
   <title><![CDATA[Category: R&D | Softstream]]></title>
   <link href="http://softstream.eu//categories/r-and-d/atom.xml" rel="self"/>
   <link href="http://softstream.eu/"/>
-  <updated>2013-09-14T21:25:06+03:00</updated>
+  <updated>2014-06-02T10:47:04+03:00</updated>
   <id>http://softstream.eu/</id>
   <author>
     <name><![CDATA[Alex]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Telemedicine Process Automation]]></title>
+    <link href="http://softstream.eu/project/Telemedicine+Process+Automation"/>
+    <updated>2013-03-28T00:00:00+02:00</updated>
+    <id>http://softstream.eu/project/Telemedicine Process Automation</id>
+    <content type="html"><![CDATA[<h1>Telemedicine Process Automation</h1>
+
+<h2>Customer</h2>
+
+<p>A Supplier of Mobile Cardiac Outpatient Telemetry that provides the next-generation ambulatory cardiac monitoring service with beat-to-beat, real time analysis, automatic arrhythmia detection and wireless ECG transmission.
+It helps clinicians prevent morbidity, mortality and disability with rapid diagnosis and treatment of patients with cardiovascular disease.</p>
+
+<h2>Objectives and Solution</h2>
+
+<p>The project was to automate the process of ECG signal decoding transmitted via phone landlines and integrate solution with existent patient monitoring system.
+Signal could be recorded in noisy place with distortions caused by landlines equipment. Also target was to successfully process no less than 70% of all records.</p>
+
+<ul>
+<li>Applied numerical analysis to the problem and created mathematical model for signal processing</li>
+<li>Integrated with existing patient monitoring system through XML Web Services technology</li>
+</ul>
+
+
+<h2>Project highlights</h2>
+
+<ul>
+<li>Successfully designed and implemented self adaptive demodulator algorithm</li>
+<li>Through reverse engineering technical documentation for supported cardiac monitors was re-defined and corrected</li>
+<li>Application UX was designed for maximum personnel efficiency and fully supports control via keyboard</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Real Estate System Upgrade]]></title>
@@ -91,40 +125,6 @@
 <li>First version of working prototype was able to handle more than 2000 connections</li>
 <li>Custom protocol that unified ideas of UDP broacasting and multicasting allowed significantly decrease load on network</li>
 <li>Plugin based architecture weakened dependencies between server components and streamlined development process</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Telemedicine Process Automation]]></title>
-    <link href="http://softstream.eu/project/CardioNet"/>
-    <updated>2013-03-28T00:00:00+02:00</updated>
-    <id>http://softstream.eu/project/CardioNet</id>
-    <content type="html"><![CDATA[<h1>Telemedicine Process Automation</h1>
-
-<h2>Customer</h2>
-
-<p>A Supplier of Mobile Cardiac Outpatient Telemetry that provides the next-generation ambulatory cardiac monitoring service with beat-to-beat, real time analysis, automatic arrhythmia detection and wireless ECG transmission.
-It helps clinicians prevent morbidity, mortality and disability with rapid diagnosis and treatment of patients with cardiovascular disease.</p>
-
-<h2>Objectives and Solution</h2>
-
-<p>The project was to automate the process of ECG signal decoding transmitted via phone landlines and integrate solution with existent patient monitoring system.
-Signal could be recorded in noisy place with distortions caused by landlines equipment. Also target was to successfully process no less than 70% of all records.</p>
-
-<ul>
-<li>Applied numerical analysis to the problem and created mathematical model for signal processing</li>
-<li>Integrated with existing patient monitoring system through XML Web Services technology</li>
-</ul>
-
-
-<h2>Project highlights</h2>
-
-<ul>
-<li>Successfully designed and implemented self adaptive demodulator algorithm</li>
-<li>Through reverse engineering technical documentation for supported cardiac monitors was re-defined and corrected</li>
-<li>Application UX was designed for maximum personnel efficiency and fully supports control via keyboard</li>
 </ul>
 
 ]]></content>
